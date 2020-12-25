@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Receiver</string>
+    <string name="getProduct" />
+    <string name="channelID">channelPA</string>
+    <string name="channelName">Product channel</string>
+    <string name="addProduct">add</string>
+</resources>
